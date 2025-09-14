@@ -22,7 +22,7 @@ const Home: React.FC = () => {
       {/* 🔹 Header */}
       <IonHeader>
         <IonToolbar>
-          <IonTitle>My Ionic Grid App</IonTitle>
+          <IonTitle>My Ionic App</IonTitle>
         </IonToolbar>
       </IonHeader>
 
@@ -37,7 +37,7 @@ const Home: React.FC = () => {
                   <IonCardTitle>Column 1</IonCardTitle>
                 </IonCardHeader>
                 <IonCardContent>
-                  This is the first column.
+                  What to put hereeee
                 </IonCardContent>
               </IonCard>
             </IonCol>
